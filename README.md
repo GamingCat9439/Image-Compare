@@ -1,4 +1,4 @@
-# Local Image Compare AI 🤖
+# Local Image Comparement Using AI 🤖
 
 Offline Python desktop app for comparing two selected images and highlighting any detected changes. 🖼️
 
